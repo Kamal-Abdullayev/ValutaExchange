@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.exchange{
+    margin-top: 3%;
+    display: flex;
+}
+
+.sellect-val{
+    margin: 0 2% 0 2%;
+}
+
+.exchange-val{
+    margin-top: 3%;
+}
+
+/* .exchange-value { */
+    /* display: none; */
+/* } */
